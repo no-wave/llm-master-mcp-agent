@@ -1,7 +1,7 @@
 # MCP 에이전트 쿡북 with Python
 LLM 에이전트 구축을 위한 MCP (Model Context Protocol) 개발 실전 가이드
 
-![image](https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FvBSvA6ckLevWD5V681KQ%252FLLM%2520Master-MCP%2520%25E1%2584%258B%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB%25E1%2584%2590%25E1%2585%25B3%2520%25E1%2584%258F%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25A8.png%3Falt%3Dmedia%26token%3D1ed4ddfe-022e-43a6-9099-5ca4853a7fec&width=300&dpr=4&quality=100&sign=a86fb0ae&sv=2)
+<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FvBSvA6ckLevWD5V681KQ%252FLLM%2520Master-MCP%2520%25E1%2584%258B%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB%25E1%2584%2590%25E1%2585%25B3%2520%25E1%2584%258F%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2587%25E1%2585%25AE%25E1%2586%25A8.png%3Falt%3Dmedia%26token%3D1ed4ddfe-022e-43a6-9099-5ca4853a7fec&width=300&dpr=4&quality=100&sign=a86fb0ae&sv=2" width="500" height="707"/>
 
 ## 책 소개
 인공지능 기술이 급속도로 발전하면서, 우리는 AI가 단순한 질문 응답을 넘어 복잡한 업무를 수행하는 시대에 접어들었다. 이러한 변화의 중심에는 대형 언어 모델(LLM)과 이들을 활용한 에이전트 시스템이 있다. 그러나 AI가 진정한 업무 파트너로 자리 잡기 위해서는, 다양한 도구와 데이터 소스와의 원활한 통합이 필수적이다.
